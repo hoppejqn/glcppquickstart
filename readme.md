@@ -25,6 +25,6 @@ mkdir build
 cd build
 cmake ..
 make
-'''
+```
 
 - by hoppejqn, gpt
