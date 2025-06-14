@@ -1,0 +1,3 @@
+/home/hoppe/Desktop/gladngl/build/CMakeFiles/OpenGLExample.dir
+/home/hoppe/Desktop/gladngl/build/CMakeFiles/edit_cache.dir
+/home/hoppe/Desktop/gladngl/build/CMakeFiles/rebuild_cache.dir
